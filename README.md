@@ -2,4 +2,4 @@
 
 [Emoji Cheat Sheet](https://github.com/anthony789456/management/blob/main/emoji-cheat-sheet.md)
 
-[code](code.md)
+[Code](code.md)
