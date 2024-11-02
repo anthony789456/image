@@ -26,8 +26,20 @@ second example
 
 ---
 
-example
-<pre>
-example
-<pre>
-example
+use `- `,`* `,`+ `,`1. `,`2. `,`3. ` to create list
+```
+list
+- list1
+- list2
+- - sublist1
+  - sublist2
+```
+list
+- list1
+- list2
+- - sublist1
+  - sublist2
+
+1. list1
+2. list2
+3. list3
