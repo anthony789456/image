@@ -43,3 +43,15 @@ list
 1. list1
 2. list2
 3. list3
+
+---
+
+To create a task list, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
+```
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+```
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
